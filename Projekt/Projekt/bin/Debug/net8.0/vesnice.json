@@ -1,0 +1,44 @@
+[
+  {
+    "Jmeno": "Martin",
+    "Level": 12,
+    "Zivoty": 20,
+    "Role": "Bojovnik",
+    "Bonus": 62
+  },
+  {
+    "Jmeno": "Lukas",
+    "Level": 20,
+    "Zivoty": 30,
+    "Role": "Bojovnik",
+    "Bonus": 124
+  },
+  {
+    "Jmeno": "Pedro",
+    "Level": 25,
+    "Zivoty": 20,
+    "Role": "Kouzelnik",
+    "Bonus": 6
+  },
+  {
+    "Jmeno": "Johny",
+    "Level": 14,
+    "Zivoty": 20,
+    "Role": "Stavitel",
+    "Bonus": 9
+  },
+  {
+    "Jmeno": "Sonya",
+    "Level": 18,
+    "Zivoty": 25,
+    "Role": "Stavitel",
+    "Bonus": 43
+  },
+  {
+    "Jmeno": "Vojgrc",
+    "Level": 10,
+    "Zivoty": 15,
+    "Role": "Delnik",
+    "Bonus": 1
+  }
+]
